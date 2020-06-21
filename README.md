@@ -49,4 +49,3 @@ We can also insert a subpoints by puting two spaces before the Dashe or the star
 **If we want to visit the main page of our product we can insert a link by naming the product website and put it between [] then we copy the product website and but it between ().**
 
 [our product website](https://mariskajosefine.wixsite.com/strategicinsight/single-post/2014/03/12/Product-Analysis)
->kjhgjh
