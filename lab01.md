@@ -14,4 +14,4 @@ Growth Mindset changed the way that I used to look at my own effort by realizing
 ![effort image](https://www.exceeders.com/hs-fs/hubfs/shutterstock_171442469.jpg?width=1000&name=shutterstock_171442469.png)
 ### 3. Dealing with other people sucsses:
 Growth Mindset encourage the way that I used to deal with the other sucsses, I always look at other achievements to improve my self, follow there steps and take them as an exapmle for me to make sure that I can be sucssesful also in what I am doing, so they are a motivation story for me to keep working hard to get to my goal.
-![image](https://ejoy-english.com/blog/wp-content/uploads/2018/04/success.png)
+![sucsses image](https://ejoy-english.com/blog/wp-content/uploads/2018/04/success.png)
