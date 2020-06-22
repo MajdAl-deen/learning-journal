@@ -1,5 +1,9 @@
 # What did I get from doing lab 03?
-Afert checking my pervious work for **Growth mindset** and **lab01** I have edit some mistaks using Visual studio Code and that leads to learn the orders using Ububtu.
+Afert checking my pervious work for **Growth mindset** and **lab01** I have edit some mistaks using Visual studio Code and that leads to learn new orders and terms using Ububtu.
+
+## The first term was version control
+Is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+
 ### The new orders that I get was :
 * **git clon** : this order helps me to get my work from gethub.
 * **git status** : this code allows me to check if my wark has been saved or not.
