@@ -47,4 +47,4 @@ it using the keyboard to navigate by entering commands and does not utilize a mo
 * **ls command**: TO list the files in the current working directory.
 * **cd command**: To change the current working directory in various operating systems. It can be used in shell scripts and 
 batch files, also kown as (change directory).
-
+* **file command**: is used to determine the type of a file.
