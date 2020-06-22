@@ -1,17 +1,51 @@
-# Growth Mindset
+# learning-journal
+## Markdown
+### Definition of markdown:
+It is a semple way to design your text by using certain symbols like # or * and other symbols also gives us other features that could help us to write somthing special by adding an image or links.
 
-## What is the benifts from the Growth Mindset?
-Growth Mindset can gives you a new creative ways to achieve your goals.
-## What is the meaning of Growth Mindset?
-It is a way that *motivats* and *engorges* you to **improve** your self and looking forward to learn new things.
+### How to designing your words?
 
-## How Could the Growth Mindset change motivats me??
-### 1. Facing my challenges:
-Growth Mindset changed the way that I used to face the challenges because I used to avoid the challenges that I faced but once I recognize that If I continue to avoid them I will never learn any thing so it is better to face the challenge and there nothing wrong if you have not deal with the challenge in the best way but in the end of the day you will realize your way was not the best way to deal with it so I should use another way to face the challenge in the best way I can , **And this is who to learn new methods in dealing with the same challenge in the future**.
-![challenge image](https://technocred.com/wp-content/uploads/2019/04/startup-challenges.png)
-### 2. My point of viwe for my own effort:
-Growth Mindset changed the way that I used to look at my own effort by realizing that I should work hard to achieve the goal that I am puting my effort on and applying the quote that said *no pain no gain*.
-![effort image](https://www.exceeders.com/hs-fs/hubfs/shutterstock_171442469.jpg?width=1000&name=shutterstock_171442469.png)
-### 3. Dealing with other people sucsses:
-Growth Mindset encourage the way that I used to deal with the other sucsses, I always look at other achievements to improve my self, follow there steps and take them as an exapmle for me to make sure that I can be sucssesful also in what I am doing, so they are a motivation story for me to keep working hard to get to my goal.
-![sucsses image](https://www.theladders.com/wp-content/uploads/success-190926-800x450.jpg)
+**for example** we can make our text bold by writing our text betwen those symbols ****  **our text** or by writting our words between
+( __ __ ) __to make our words alos bold__ and we can make it italic by writing it between this symbols **  *our text* or by butting our words between (_ _) _to give us italic font_ .
+
+### How to change the font size?
+
+We can write a big header in a by adding (#) in the bigging of the text and this is similer to write an h1 tag in HTML.
+Also we can write in a smaller size than adding a (#) by adding two of them (##)and this is similer to write an h2 tag in HTML and so on up to six heading sizes, when we want to make the font size smaller to the header we just add one (#) in the begging of our writing.
+
+### How to make a lists in defferent types?
+If we have to count somthing and we want to write it by numbers we just write (1. 2. 3. and ect..) like:
+1. January
+2. Febuary
+3. March
+4. April
+If we want to mention some point with out numbring them and you just want a bullet points we can use this symbole (* ) in the beginning of the line or the point that we want to write about it or by using the Dash (- ) in the bigging of the point like:
+
+- Lisetn carefully
+- Analaiys what we have listen 
+- Talk in a short way 
+
+**OR** using the star symbole like:
+* Stady
+* Ready
+* Go
+
+**And both of them give us the same resulte**
+
+We can also insert a subpoints by puting two spaces before the Dashe or the star and we will get the resulte we want like:
+- stady
+  - Focus
+- ready
+  - Be prepared
+- go
+  - Make your full effort
+  
+  ### How to insert an image ??
+  
+  If we are selling a product we can insert an image of this product by writing Image of the product between ![] and we copy the image address and put it between () like:
+  
+![image of a product](https://static.wixstatic.com/media/04839a_b4d0c16c316d49b68c12dee6f0920ce4.jpg)
+
+**If we want to visit the main page of our product we can insert a link by naming the product website and put it between [] then we copy the product website and but it between ().**
+
+[our product website](https://mariskajosefine.wixsite.com/strategicinsight/single-post/2014/03/12/Product-Analysis)
