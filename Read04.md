@@ -26,4 +26,8 @@ Understand the visitors goals and know if he is visiting your website for intert
 Understanding your website is also important because you should know if you are going to update it after some time or to add new things or features that keep the visitors motivated to come again and visit your site *some times you should put a schedule for this*.
 
 ## You should make a site map that allows you to make your own structur for your website to make sure that the goals and the purposes of visting your site could be achieved easily.
- 
+
+## You should make a WireFrames which is a basic drawing to clarify the basic boundaries that I have to deal with and create that make it easier to write the code.
+
+## Design your website according the information and criteria of the displaied things that the visitor will get after reading it but make sure to put things that gives the same information in a same group,boundary,size and color.
+
