@@ -24,3 +24,6 @@ Understand the visitors goals and know if he is visiting your website for intert
 
 ## If your site is giving a certain type of service or product that could be updated you should make sure to updated the website to keep your self in competition with the others.
 Understanding your website is also important because you should know if you are going to update it after some time or to add new things or features that keep the visitors motivated to come again and visit your site *some times you should put a schedule for this*.
+
+## You should make a site map that allows you to make your own structur for your website to make sure that the goals and the purposes of visting your site could be achieved easily.
+ 
