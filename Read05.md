@@ -14,3 +14,5 @@ If we had two or more of the block element and we want to put them next to each 
 ## How to write a CSS?
 We prefear to use an external CSS file and we can connect it in HTML page by writing **< link href="palce of the CSS file/CSS file neam.CSS">' type="text or CSS"**
 *make sure befor you creat this link you should have made a CSS file* 
+
+**Also CSS allows you to change each element color or the text color by using the proper command**
