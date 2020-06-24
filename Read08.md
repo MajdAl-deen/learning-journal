@@ -10,12 +10,14 @@
 * *The >= tool*:this allows me compare between two numbers to check if the number on the left is bigger or equal the number on the right.
 ## We could use logical operaitors to compare between coparsion operatiors
 
-### We have two logical operaitors to use and they called *(AND,OR,NOT)*
+### We have some logical operaitors to be used and they are *(AND,OR,NOT)*
+![image of operaitors](https://images.slideplayer.com/12/3357396/slides/slide_8.jpg)
 
 * AND: will be represinted by this symbol && and if we compare between two results and one of them is false the AND resulte will be false.
 *  OR: if we copmare between tow results and onr of them is true the OR resulte will be true.
 *  NOT: will be represinted by this symbol ! and when we use it the boolean value will change so when we use it when the sentens is true it changes it to false.
+![image and and or](https://image.itmedia.co.jp/ait/articles/1201/13/r5pic1.jpg)
 
-**other way to write the above logical is like *False && anything* or *true (||) anything* make it stops if it found a falsu in the first one and the second one it stops if there is any true.**
+**other way to write the above logical is like *False and anything* or *true or anything* make it stops if it found a falsu in the first one and the second one it stops if there is any true.**
 
 ### We use the logical operaitors in loops to make sure the the user has done the exact thing I want him to do Like for and while.
