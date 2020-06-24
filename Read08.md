@@ -21,4 +21,4 @@
 **other way to write the above logical is like *False and anything* or *true or anything* make it stops if it found a falsu in the first one and the second one it stops if there is any true.**
 
 ### We use the logical operaitors in loops to make sure the the user has done the exact thing I want him to do Like for and while.
-[image of loops](https://miro.medium.com/max/1116/1*m3FCII8jirPfanBHqnvbAg.png)
+![image of loops](https://miro.medium.com/max/1116/1*m3FCII8jirPfanBHqnvbAg.png)
