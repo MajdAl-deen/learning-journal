@@ -1,4 +1,4 @@
-# Introduction to Javascript 2
+# Introduction to Javascript 
 ## What is the script in Java?
 
 * It is a sequence of characters written according to the Java, These scripts are embedded into the Java code that are evaluated or interpreted by the runtime environment called the script engines.

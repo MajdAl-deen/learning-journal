@@ -6,6 +6,8 @@
 
 * The electronic parts should use circuits to simulat every thing.
 
+![computer image](https://i.ytimg.com/vi/p3q5zWCw8J4/maxresdefault.jpg)
+
 **Simply it is a compination of *input* , *output* and *store* and here is the importance of coding to conect those element to work togather and do the job**.
 
 ### The main process in evey each computer in the world is input , storage, processing, output.
