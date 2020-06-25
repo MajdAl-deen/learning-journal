@@ -30,15 +30,18 @@ Understanding your website is also important because you should know if you are 
 ## You should make a WireFrames which is a basic drawing to clarify the basic boundaries that I have to deal with and create that make it easier to write the code.
 
 ## Design your website according the information and criteria of the displaied things that the visitor will get after reading it but make sure to put things that gives the same information in a same group,boundary,size and color.
-
+![image HTML](https://cdn.lynda.com/course/170427/170427-637251494437967118-16x9.jpg)
 # Why HTML5 is easy to use?
 1. Using HTML5 helps to eliminate most <div> tags and replace them with semantic elements. Designers can now use cleaner and neater code.
 
 2. Make a more detailed understanding of the structure of a page with the help of HTML5.
+![image understanding](https://www.keystepmedia.com/wp-content/uploads/31192758_l-1-800x400.jpg)
 
 3. With its new features and standards, HTML5 makes it easier to create front-end application such as drag and drop tools, wikis, discussion boards, and other useful elements. 
 
 4. Share where you are in the world with the help of Geolocation. You can do this using your IP address, wireless network connection, the cell tower your phone is talking to or dedicated GPS hardware to calculate the latitude and longitude from information sent by satellites. With the new HTML5 Geolocation, APIs make location directly available to any HTML5 compatible browser based application.
 
 5. HTML5 provides a smarter solution to specify the files that the browser should cache. The pages can be loaded correctly even when offline.
+
+![image solution](https://www.supplychaincards.com/wp-content/uploads/2018/07/fsolution.png)
 
