@@ -1,8 +1,7 @@
-# Indterducing my self
-Hi, My name is Malek Hassan AL-Dalal'ah and I am a Civil engineer and I love that and now I am looking to learn coding hoping to find a way to marge between codin and civil engineering and the first step was making my [GitHub page](https://github.com/MalekHassan) to take my reading notes using markdown language.
-## Markdown
+# Markdown
 ### Definition of markdown:
 It is a semple way to design your text by using certain symbols like # or * and other symbols also gives us other features that could help us to write somthing special by adding an image or links.
+
 
 ### How to designing your words?
 
